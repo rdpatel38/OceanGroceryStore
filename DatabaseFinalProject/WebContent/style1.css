@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h3 {
+	text-align: center;
+	color: #C11E07;
+	font-family: serif;
+}
+
+p {
+    text-indent: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #082821;
+}
+
+tr, td, input[type="submit"]{
+	color: #034E29;
+}
+
+select {
+	min-width: 158px;
+}
+
+input[type="number"] {
+	min-width: 154px;
+}
